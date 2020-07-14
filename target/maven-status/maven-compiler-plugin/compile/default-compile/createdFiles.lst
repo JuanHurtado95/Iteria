@@ -1,0 +1,8 @@
+com\pruebatecnica\dao\ClienteDao.class
+com\pruebatecnica\dao\ProductoDao.class
+com\pruebatecnica\controller\pruebaTecnicaController.class
+com\pruebatecnica\entity\Cliente.class
+com\pruebatecnica\formularios\resources\JavaEE8Resource.class
+com\pruebatecnica\entity\Producto.class
+com\pruebatecnica\conexion\Conexion.class
+com\pruebatecnica\formularios\JAXRSConfiguration.class
